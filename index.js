@@ -22,7 +22,7 @@ app.use(cookieParser());
 
 // CORS
 app.use(cors({
-  origin: 'https://www.eduardoureta.xyz/',
+  origin: 'https://eduardoureta.xyz/',
   credentials: true, 
 }));
 
